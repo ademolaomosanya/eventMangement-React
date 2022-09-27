@@ -1,1 +1,0 @@
-# eventMangement-React
